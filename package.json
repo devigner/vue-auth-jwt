@@ -14,13 +14,13 @@
     "token"
   ],
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "0.26.1",
     "core-js": "^3.6.5",
-    "vue": "^2.6.11"
+    "vue": "^3.2.31"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "~4.5.0",
-    "@vue/cli-service": "~4.5.0",
+    "@vue/cli-plugin-babel": "5.0.4",
+    "@vue/cli-service": "5.0.4",
     "vue-template-compiler": "^2.6.11"
   },
   "main": "./dist/vue-auth-jwt.common.js"
